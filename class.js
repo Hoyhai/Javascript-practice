@@ -12,7 +12,7 @@ class Num {
     }
     // method
     square() {
-        return this.val * 2
+        return this.val ** 2
     }
     cube() {
         return this.val ** 3
